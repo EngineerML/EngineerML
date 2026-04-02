@@ -4,7 +4,7 @@
 Open to Remote Opportunities  
 
 📧 alexchong59@outlook.com  
-🔗 [LinkedIn](https://linkedin.com/in/chongzhi-wei-2b8a783bb)  
+🔗 [LinkedIn](https://linkedin.com/in/chongzhi-wei)  
 💻 [GitHub](https://github.com/EngineerML)
 
 ---
