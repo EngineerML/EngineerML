@@ -1,4 +1,4 @@
-# surfmeup
+# overhorizon
 
 **AI / ML Engineer**  
 Open to Remote Opportunities  
