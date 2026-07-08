@@ -1,6 +1,6 @@
 # surfmeup
 
-**AI / Machine Learning Engineer**  
+**AI / ML Engineer**  
 Open to Remote Opportunities  
 
 💻 [GitHub](https://github.com/EngineerML)
@@ -14,4 +14,4 @@ AI Engineer with hands-on experience building production-grade machine learning 
 Strong focus on:
 - Time-series forecasting (ARIMA, CatBoost)  
 - High-dimensional data modeling (36k+ features)  
-- End-to-end ML pipelines and real-world deployment  
+- End-to-end ML pipelines and real-world deployment
