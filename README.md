@@ -1,6 +1,6 @@
 # overhorizon
 
 **Software Engineer | AI Specialist**  
-Open to Remote Opportunities  
+Open to Remote Opportunities   
 
 💻 [GitHub](https://github.com/EngineerML)
